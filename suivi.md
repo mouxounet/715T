@@ -29,7 +29,7 @@
 
 ## matin
 
-**Durée 30m** rappel de la veille
+**Durée : 30m** rappel de la veille
 
 **Durée : 1h**, processus **Diapo 4**:
 - diapo
@@ -54,7 +54,7 @@
 
 ## matin
 
-**Durée 30m** rappel de la veille
+**Durée : 30m** rappel de la veille
 
 **Durée : 1h**, regexp **Diapo 8**:
 - diapo
