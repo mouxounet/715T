@@ -19,7 +19,7 @@
 
 ## après midi
 
-**Durée : 3h*, SGF **Diapo 3**:
+**Durée : 3h**, SGF **Diapo 3**:
 - Déroulé du diapo pour SGF
 - TP2
 - Déroulé du diapo pour les droits
