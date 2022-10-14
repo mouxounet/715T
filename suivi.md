@@ -34,41 +34,43 @@
 **Durée : 1h**, processus **Diapo 4**:
 - diapo
 - TP4
-- je serai d'avis de zapper le TP5 (aucune plus value)
+- je serai d'avis de zapper le TP5 (aucune plus value)-> remplacé par un test ssh sur pc des stagiaires: trouver et kill le process
 
-**Durée : 1h**, édition de fichiers **Diapo 5**:
-- faisons du VI :) 
-- vimtutor
+**Durée : 1h 30**, flux et filtres **Diapo 6**:
+- Déroulé du diapo (présentation filtres/flux)
+- TP6
 
 ## après midi
 
-**Durée : 1h30**, flux et filtres **Diapo 6**:
-- diapo
-- TP6
+**Durée : 45 min**, vim  **Diapo 5**:
+- déroulé du diapo5
+- Découverte de vim avec vim tutor
 
 **Durée : 1h30**, find + locate **Diapo 7**:
 - diapo
 - TP7 (sauf question 5 qui n'a rien à foutre là
 
+**Durée : 45min**, regexp **Diapo 8**:
+- diapo
+- pas de TP ???
 # Jour 3
 
 ## matin
 
 **Durée : 30m** rappel de la veille
 
-**Durée : 1h**, regexp **Diapo 8**:
-- diapo
-- pas de TP ???
-
 **Durée : 1h**, sauvegarde archivage **Diapo 10**:
 - diapo
 - TP8
 
-## après midi
-
-**Durée : 1h30**, taches planifiées **Diapo 11**:
+**Durée : 1h** Taches planifiées **Diapo 11**:
 - diapo
 - TP9
 
+## après midi
+
+
 **Durée : 1h30**, les bonus de Lulu et Rémi:
 - Questions + Tips + Débrief
+
+**Durée 1h30**, TP de synthèse
