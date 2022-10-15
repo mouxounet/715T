@@ -1,4 +1,4 @@
-# Monter du VI :
+# Montrer du VI :
 
 - contextes
 - navigation
