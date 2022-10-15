@@ -1,0 +1,1 @@
+- montrer la commande updatedb pour màj locate
