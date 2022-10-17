@@ -1,4 +1,9 @@
-## Avec un la commande suivate ```zcat /usr/share/man/man1/man.1.gz```
+Au préalable :
+```
+cp /usr/share/man/man1/man.1.gz .
+gunzip man.1.gz
+```
+
 1) Motif en début
 - Chercher toutes les lignes commençant par **a** 
 - Chercher toutes les lignes commençant par **A**
