@@ -41,11 +41,14 @@
 - TP4
 - je serai d'avis de zapper le TP5 (aucune plus value)-> remplacé par un test ssh sur pc des stagiaires: trouver et kill le process
 
-**Durée : 1h 30**, flux et filtres **Diapo 6**:
+**Durée : 1h*, flux et filtres **Diapo 6**:
 - Déroulé du diapo (présentation filtres/flux)
-- TP6
+
 
 ## après midi
+
+**Duree : ** flux et filtres:
+- TP6
 
 **Durée : 45 min**, vim  **Diapo 5**:
 - déroulé du diapo5
