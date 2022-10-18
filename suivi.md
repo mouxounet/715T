@@ -55,7 +55,7 @@
 **Durée : 25 min**, vimtutor:
 - Découverte de vim avec vim tutor
 
-**Durée : 1h30**, find + locate **Diapo 7**:
+**Durée : 1h00**, find + locate **Diapo 7**:
 - diapo
 - TP7 (sauf question 5 qui n'a rien à foutre là)
 
