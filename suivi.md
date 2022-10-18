@@ -22,7 +22,7 @@
 **Durée : 3h**, SGF **Diapo 3**:
 - Déroulé du diapo pour SGF: **1h15m**
 - TP2
-- Déroulé du diapo pour les droits
+- Déroulé du diapo pour les droits **C'était chaud en timing**
 - TP3
 
 # Jour 2
@@ -30,6 +30,11 @@
 ## matin
 
 **Durée : 30m** rappel de la veille
+1) Système d'exploitation
+2) Structure d'une commande
+3) SGF => quelles commandes
+4) Droits => quelles commandes
+
 
 **Durée : 1h**, processus **Diapo 4**:
 - diapo
