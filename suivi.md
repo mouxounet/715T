@@ -37,7 +37,7 @@
 
 
 **Durée : 1h**, processus **Diapo 4**:
-- diapo
+- diapo **45min**
 - TP4
 - je serai d'avis de zapper le TP5 (aucune plus value)-> remplacé par un test ssh sur pc des stagiaires: trouver et kill le process
 
