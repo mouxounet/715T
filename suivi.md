@@ -47,16 +47,17 @@
 
 ## après midi
 
-**Duree : ** flux et filtres:
+**Duree : 1h15m** flux et filtres:
 - TP6
 
-**Durée : 45 min**, vim  **Diapo 5**:
+**Durée : 15 min**, vim  **Diapo 5**:
 - déroulé du diapo5
+**Durée : 25 min**, vimtutor:
 - Découverte de vim avec vim tutor
 
 **Durée : 1h30**, find + locate **Diapo 7**:
 - diapo
-- TP7 (sauf question 5 qui n'a rien à foutre là
+- TP7 (sauf question 5 qui n'a rien à foutre là)
 
 **Durée : 45min**, regexp **Diapo 8**:
 - diapo
