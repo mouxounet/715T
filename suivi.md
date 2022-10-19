@@ -59,14 +59,20 @@
 - diapo
 - TP7 (sauf question 5 qui n'a rien à foutre là)
 
-**Durée : 45min**, regexp **Diapo 8**:
-- diapo
-- pas de TP ???
+
 # Jour 3
 
 ## matin
 
 **Durée : 30m** rappel de la veille
+
+**Durée : 35min**, regexp **Diapo 8**:
+- diapo
+
+**Durée 20min**, regexp :
+- le TP
+
+**Durée 20min**, regexp sed + vim
 
 **Durée : 1h**, sauvegarde archivage **Diapo 10**:
 - diapo
