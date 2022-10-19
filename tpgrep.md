@@ -2,6 +2,7 @@ Au préalable :
 ```
 cp /usr/share/man/man1/man.1.gz .
 gunzip man.1.gz
+grep -E "mon_expression" man.1
 ```
 
 1) Motif en début
