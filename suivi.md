@@ -57,7 +57,7 @@
 
 **Durée : 1h00**, find + locate **Diapo 7**:
 - diapo
-- TP7 (sauf question 5 qui n'a rien à foutre là)
+- TP7 
 
 
 # Jour 3
@@ -69,10 +69,12 @@
 **Durée : 35min**, regexp **Diapo 8**:
 - diapo
 
-**Durée 20min**, regexp :
+**Durée 40min**, regexp :
 - le TP
 
-**Durée 20min**, regexp sed + vim
+**Durée 20min**, regexp sed + vim + bashrc
+
+## après midi
 
 **Durée : 1h**, sauvegarde archivage **Diapo 10**:
 - diapo
@@ -81,9 +83,6 @@
 **Durée : 1h** Taches planifiées **Diapo 11**:
 - diapo
 - TP9
-
-## après midi
-
 
 **Durée : 1h30**, les bonus de Lulu et Rémi:
 - Questions + Tips + Débrief
