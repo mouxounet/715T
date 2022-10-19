@@ -9,7 +9,7 @@ grep -E "mon_expression" man.1
 - Chercher toutes les lignes commençant par **a** 
 - Chercher toutes les lignes commençant par **A**
 - Chercher toutes les lignes commençant par **a** ou **A**
-2) Chercher toutes les lignes finissant par **of*
+2) Chercher toutes les lignes finissant par **of**
 3) Chercher toutes les lignes contenant au moins un chiffre.
 4) Chercher toutes les lignes commençant par une majuscule.
 5) Chercher toutes les lignes commençant par «B», «E» ou «Q».
