@@ -41,8 +41,8 @@ grep -E "mon_expression" man.1
 
 7) Chercher tous les mots contenant un «r» précédé de n'importe quelle lettre majuscule ou minuscule.
 
-*grep -Eo "[A-Za-z]+r[A-Za-z]*" man.1 #ajout de l'option -o pour ne sortir que les matchs ou grep -Eo "[[:alpha:]]*r[[:alpha:]]*" man.1*
+*grep -Eo "[A-Za-z]+r[A-Za-z]*" man.1 #ajout de l'option -o pour ne sortir que les matchs ou grep -Eo "[[:alpha:]]+r[[:alpha:]]*" man.1*
 
 8) Chercher tous les mots dont la seconde lettre est un «r».
 
-*grep -Eo "^[A-Za-z]r[A-Za-z]*" man.1 ou grep -Eo "^[[:alpha:]]r[[:alpha:]]*" man.1*
+*grep -Eow "[A-Za-z]r[A-Za-z]*" man.1 ou  grep -Eow "[[:alpha:]]r[[:alpha:]]*" man.1* l'option w va selectionner uniquement les mots correspondants à l'expression
