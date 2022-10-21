@@ -29,7 +29,7 @@ grep -E "mon_expression" man.1
 
 4) Chercher toutes les lignes commençant par une majuscule.
 
-*grep -E "^[a-z]" man.1*
+*grep -E "^[A-Z]" man.1*
 
 5) Chercher toutes les lignes commençant par «B», «E» ou «Q».
 
