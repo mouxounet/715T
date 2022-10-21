@@ -45,4 +45,4 @@ grep -E "mon_expression" man.1
 
 8) Chercher tous les mots dont la seconde lettre est un «r».
 
-*grep -Eo "^[A-Za-z]r[A-Za-z]*" man.1 ou grep -Eo "[[:alpha:]]r[[:alpha:]]*" man.1*
+*grep -Eo "^[A-Za-z]r[A-Za-z]*" man.1 ou grep -Eo "^[[:alpha:]]r[[:alpha:]]*" man.1*
