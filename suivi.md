@@ -23,7 +23,6 @@
 - Déroulé du diapo pour SGF: **1h15m**
 - TP2
 - Déroulé du diapo pour les droits **C'était chaud en timing**
-- TP3
 
 # Jour 2
 
@@ -36,21 +35,24 @@
 4) Droits => quelles commandes
 
 
+**Durée : 1h** Droits suite
+- TP3
+
 **Durée : 1h**, processus **Diapo 4**:
 - diapo **45min**
 - TP4
 - je serai d'avis de zapper le TP5 (aucune plus value)-> remplacé par un test ssh sur pc des stagiaires: trouver et kill le process
 
-**Durée : 1h*, flux et filtres **Diapo 6**:
-- Déroulé du diapo (présentation filtres/flux)
-
 
 ## après midi
+
+**Durée : 1h**, flux et filtres **Diapo 6**:
+- Déroulé du diapo (présentation filtres/flux)
 
 **Duree : 1h15m** flux et filtres:
 - TP6
 
-**Durée : 15 min**, vim  **Diapo 5**:
+**Durée : 1h30m**, vim  **Diapo 5**:
 - déroulé du diapo5
 **Durée : 25 min**, vimtutor:
 - Découverte de vim avec vim tutor
@@ -76,6 +78,14 @@
 
 ## après midi
 
+
+
+
+
+# Jour 4
+
+## matin
+
 **Durée : 1h**, sauvegarde archivage **Diapo 10**:
 - diapo
 - TP8
@@ -83,6 +93,8 @@
 **Durée : 1h** Taches planifiées **Diapo 11**:
 - diapo
 - TP9
+
+## après midi
 
 **Durée : 1h30**, les bonus de Lulu et Rémi:
 - Questions + Tips + Débrief
