@@ -57,10 +57,6 @@
 **Durée : 25 min**, vimtutor:
 - Découverte de vim avec vim tutor
 
-**Durée : 1h00**, find + locate **Diapo 7**:
-- diapo
-- TP7 
-
 
 # Jour 3
 
@@ -68,19 +64,20 @@
 
 **Durée : 30m** rappel de la veille
 
+**Durée : 1h00**, find + locate **Diapo 7**:
+- diapo
+- TP7 
+- 
 **Durée : 35min**, regexp **Diapo 8**:
 - diapo
+
+
+## après midi
 
 **Durée 40min**, regexp :
 - le TP
 
-**Durée 20min**, regexp sed + vim + bashrc
-
-## après midi
-
-
-
-
+**Durée 1h30min**, regexp sed + vim + bashrc
 
 # Jour 4
 
