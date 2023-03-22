@@ -6,11 +6,19 @@
 3. Toutes les 10 minutes, vérifier la présence de fichiers archives en xz ou gz dans le répertoire depot et les décompresser dans le répertoire extraction. L'archive devra être supprimée.
 ```
 find /home/user/depot -type f -regex '.*\.[gx]z$' -exec tar -xvf {} -C /home/user/extraction --remove-files \;
+
+solution degueu de lulu:
+find /home/lucas/depot -type f -iname "*.tar.[gx]z" -exec tar -xvf {} -C /home/lucas/extraction --remove-files \;
 ```
 4. Pour vérifier, créer les archives suivantes sous depot :
 - archive du répertoire ~/Téléchargements en xz
+```
+tar -cvJf $HOME/depot/tele.tar.xz $HOME/Téléchargements
+```
 - archive du répertoire ~/Documents en gz 
-
+```
+tar -cvzf $HOME/depot/documents.tar.xz $HOME/Documents
+```
 # Quand est ce que je me connecte?
 1. Au démarrage de ma session, je souhaite alimenter un fichier créé quotidiennement. A chaque connexion de mon user, l'heure de connexion devra être indiquée, pour chaque ligne dans le fichier j'aurai l'heure de connexion. Le nom du fichier doit prendre la forme sessions_AAMMJJ.log (example sessions_220323.log).
 2. tous les soirs à 23h, je souhaite mettre à la fin du fichier le nombre de fois ou je me suis connecté... Un ligne sous la forme : "nombre de connexions dans la journée = N"
