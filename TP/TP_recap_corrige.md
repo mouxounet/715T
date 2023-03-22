@@ -31,7 +31,7 @@ Dans le fichier .bashrc, ajouter la ligne:
 echo "connexion à $(date +%H:%M:%S)" >> /home/lucas/session_$(date +\%Y\%m\%d)
 ```
 
-2. tous les soirs à 23h, je souhaite mettre à la fin du fichier le nombre de fois ou je me suis connecté... Un ligne sous la forme : "nombre de connexions dans la journée = N"
+2. tous les soirs à 23h30, je souhaite mettre à la fin du fichier le nombre de fois ou je me suis connecté... Un ligne sous la forme : "nombre de connexions dans la journée = N"
 
 ```
 30 23 * * *  echo "nombre de connexions dans la journée $(wc -l /home/lucas/session_$(date +\%Y\%m\%d) | cut -d" " -f1)" >> /home/lucas/session_$(date +\%Y\%m\%d)
