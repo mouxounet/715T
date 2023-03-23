@@ -1,5 +1,5 @@
 # Concours de sleep
-1. Lancer plusieurs sleep 1000 en arrière plan sur votre système
+1. Lancer plusieurs sleep 2000 en arrière plan sur votre système
 ```
 for i in {1..5}; do sleep 2000 &; done
 ```
