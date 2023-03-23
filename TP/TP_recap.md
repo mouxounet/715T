@@ -1,7 +1,9 @@
 # Concours de sleep
 1. Lancer plusieurs sleep 1000 en arrière plan sur votre système
-2. retrouvez leur pids à l'aide de la commande pgrep.
-3. tuez en une seule commande l'ensemble de ces sleep.
+```
+for i in {1..5}; do sleep 2000 &; done
+3. retrouvez leur pids à l'aide de la commande pgrep.
+4. tuez en une seule commande l'ensemble de ces sleep.
 
 # Détarrage automatique
 
