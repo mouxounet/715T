@@ -23,7 +23,7 @@ etc...
 ```
 find /home/user/depot -type f -regex '.*\.[gx]z$' -exec tar -xvf {} -C /home/user/extraction  \; -exec rm {} \;
 
-solution degueu de lulu:
+sans la regexp (méta-caractères du bash):
 find /home/lucas/depot -type f -iname "*.tar.[gx]z" -exec tar -xvf {} -C /home/lucas/extraction  \; -exec rm {} \;
 ```
 4. Pour vérifier, créer les archives suivantes sous depot :
