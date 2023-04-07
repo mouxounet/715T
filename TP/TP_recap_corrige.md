@@ -36,7 +36,7 @@ tar -cvJf $HOME/depot/tele.tar.xz $HOME/Téléchargements
 tar -cvzf $HOME/depot/documents.tar.xz $HOME/Documents
 ```
 # Quand est ce que je me connecte?
-1. Au démarrage de ma session, je souhaite alimenter un fichier créé quotidiennement. A chaque connexion de mon user, l'heure de connexion devra être indiquée, pour chaque ligne dans le fichier j'aurai l'heure de connexion. Le nom du fichier doit prendre la forme sessions_AAMMJJ.log (example sessions_220323.log).
+1. Au démarrage de ma session, je souhaite alimenter un fichier créé quotidiennement. A chaque connexion de mon user, l'heure de connexion devra être indiquée, pour chaque ligne dans le fichier j'aurai l'heure de connexion. Le nom du fichier doit prendre la forme sessions_AAMMJJ.log (exemple sessions_220323.log).
 
 ```
 Dans le fichier .bashrc, ajouter la ligne:
@@ -48,3 +48,5 @@ echo "connexion à $(date +%H:%M:%S)" >> /home/lucas/session_$(date +\%Y\%m\%d).
 ```
 30 23 * * *  echo "nombre de connexions dans la journée $(wc -l /home/lucas/session_$(date +\%Y\%m\%d).log | cut -d" " -f1)" >> /home/lucas/session_$(date +\%Y\%m\%d).log
 ```
+
+
